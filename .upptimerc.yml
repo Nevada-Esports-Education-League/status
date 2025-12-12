@@ -24,11 +24,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nvesportseducationleague.org
   # baseUrl: /your-repo-name
-  logoUrl: 
+  logoUrl: https://raw.githubusercontent.com/Nevada-Esports-Education-League/status/master/assets/neel.png
   name: NEEL Status Page
   introTitle: "Are NEEL's websites & services down?"
   introMessage: "This is a status page of NEEL's services hosted on GitHub"
   theme: ocean
+  favicon: https://raw.githubusercontent.com/Nevada-Esports-Education-League/status/master/assets/favicon-32x32.png
   navbar:
     - title: Status
       href: /
