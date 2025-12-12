@@ -22,17 +22,19 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: nvesportseducationleague.org
+  cname: status.nvesportseducationleague.org
   # baseUrl: /your-repo-name
   logoUrl: 
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "This is a status page of NEEL's website and services hosted on GitHub"
+  name: NEEL Status Page
+  introTitle: "Are NEEL's websites & services down?"
+  introMessage: "This is a status page of NEEL's services hosted on GitHub"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://www.nvesportseducationleague.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
