@@ -26,7 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Nevada-Esports-Education-League/status/master/assets/neel.png
   name: NEEL Status Page
-  introTitle: "Are NEEL's websites & services down?"
+  introTitle: "Are NEEL's services down?"
   introMessage: "This is a status page of NEEL's services hosted on GitHub"
   theme: ocean
   favicon: https://raw.githubusercontent.com/Nevada-Esports-Education-League/status/master/assets/favicon-32x32.png
