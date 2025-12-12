@@ -28,6 +28,7 @@ status-website:
   name: NEEL Status Page
   introTitle: "Are NEEL's websites & services down?"
   introMessage: "This is a status page of NEEL's services hosted on GitHub"
+  theme: ocean
   navbar:
     - title: Status
       href: /
