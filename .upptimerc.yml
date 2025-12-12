@@ -9,6 +9,8 @@ sites:
     url: https://www.nvesportseducationleague.org/
   - name: Authentik 
     url: https://authentik.nvesportseducationleague.org
+  - name: Bluemap
+    url: https://bluemap.nvesportseducationleague.org
   - name: Pelican
     url: https://pelican.nvesportseducationleague.org
   - name: OpenAudioMC
