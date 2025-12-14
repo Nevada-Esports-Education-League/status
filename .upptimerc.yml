@@ -7,19 +7,21 @@ assignees:
 sites:
   - name: Website
     url: https://www.nvesportseducationleague.org/
-  - name: Authentik 
-    url: https://authentik.nvesportseducationleague.org
-  - name: Bluemap
-    url: https://bluemap.nvesportseducationleague.org
-  - name: Pelican
-    url: https://pelican.nvesportseducationleague.org
-  - name: OpenAudioMC
-    url: https://endpoint.nvesportseducationleague.org
   - name: Minecraft Server
     url: play.nvesportseducationleague.org
     port: 25565
     check: "tcp-ping"
     ipv6: false
+  - name: Authentik 
+    url: https://authentik.nvesportseducationleague.org
+  - name: Bluemap
+    url: https://bluemap.nvesportseducationleague.org
+  - name: Docuseal
+    url: https://docuseal.nvesportseducationleague.org
+  - name: OpenAudioMC
+    url: https://endpoint.nvesportseducationleague.org
+  - name: Pelican
+    url: https://pelican.nvesportseducationleague.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
