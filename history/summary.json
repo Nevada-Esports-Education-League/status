@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 579,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 483,
+    "timeDay": 592,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   },
   {
@@ -22,9 +22,9 @@
     "url": "play.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-16": 0
+    }
   },
   {
     "name": "Authentik",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 709,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "time": 764,
+    "timeDay": 759,
+    "timeWeek": 764,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 356,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "time": 280,
+    "timeDay": 297,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -76,18 +78,20 @@
     "url": "https://docuseal.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/docuseal.nvesportseducationleague.org.ico",
     "slug": "docuseal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 384,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 320,
+    "timeDay": 387,
+    "timeWeek": 320,
+    "timeMonth": 320,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2025-12-16": 0
+    }
   },
   {
     "name": "OpenAudioMC",
@@ -100,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 347,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 300,
+    "timeDay": 284,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -112,17 +116,37 @@
     "url": "https://pelican.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/pelican.nvesportseducationleague.org.ico",
     "slug": "pelican",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 758,
+    "timeDay": 403,
+    "timeWeek": 758,
+    "timeMonth": 758,
+    "timeYear": 758,
+    "dailyMinutesDown": {
+      "2025-12-16": 0
+    }
+  },
+  {
+    "name": "Vault",
+    "url": "https://vault.nvesportseducationleague.org",
+    "icon": "https://icons.duckduckgo.com/ip3/vault.nvesportseducationleague.org.ico",
+    "slug": "vault",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 384,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   }
 ]
