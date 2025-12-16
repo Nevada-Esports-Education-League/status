@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 43,
     "timeDay": 41,
     "timeWeek": 43,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2025-12-16": 0
+      "2025-12-16": 8
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docuseal.nvesportseducationleague.org.ico",
     "slug": "docuseal",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.53%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 320,
     "timeDay": 387,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-12-16": 0
+      "2025-12-16": 8
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pelican.nvesportseducationleague.org.ico",
     "slug": "pelican",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 758,
     "timeDay": 403,
     "timeWeek": 758,
     "timeMonth": 758,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-12-16": 0
+      "2025-12-16": 8
     }
   },
   {
@@ -136,17 +136,19 @@
     "url": "https://vault.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/vault.nvesportseducationleague.org.ico",
     "slug": "vault",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 361,
     "timeDay": 361,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-16": 0
+    }
   }
 ]
