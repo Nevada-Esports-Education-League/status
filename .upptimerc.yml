@@ -23,6 +23,8 @@ sites:
     url: https://endpoint.nvesportseducationleague.org
   - name: Pelican
     url: https://pelican.nvesportseducationleague.org
+  - name: Shelf
+    url: https://shelf.nvesportseducationleague.org
   - name: Vault
     url: https://vault.nvesportseducationleague.org
 status-website:
