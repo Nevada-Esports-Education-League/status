@@ -19,6 +19,8 @@ sites:
     url: https://bluemap.nvesportseducationleague.org
   - name: Docuseal
     url: https://docuseal.nvesportseducationleague.org
+  - name: Element
+    url: https://element.nvesportseducationleague.org
   - name: OpenAudioMC
     url: https://endpoint.nvesportseducationleague.org
   - name: Pelican
