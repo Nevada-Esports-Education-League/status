@@ -21,6 +21,8 @@ sites:
     url: https://docuseal.nvesportseducationleague.org
   - name: Element
     url: https://element.nvesportseducationleague.org
+  - name: Gitea
+    url: https://gitea.nvesportseducationleague.org
   - name: OpenAudioMC
     url: https://endpoint.nvesportseducationleague.org
   - name: Pelican
