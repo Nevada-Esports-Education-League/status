@@ -45,18 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.nvesportseducationleague.org.ico",
     "slug": "authentik",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.93%",
     "time": 668,
     "timeDay": 686,
     "timeWeek": 543,
     "timeMonth": 535,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-02-01": 5,
       "2026-01-01": 24,
       "2025-12-23": 29
     }
