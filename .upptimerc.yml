@@ -14,7 +14,7 @@ sites:
     check: "tcp-ping"
     ipv6: false
   - name: Authentik 
-    url: https://login.nvesportseducationleague.org
+    url: https://authentik.nvesportseducationleague.org
   - name: Bluemap
     url: https://bluemap.nvesportseducationleague.org
   - name: Docuseal
