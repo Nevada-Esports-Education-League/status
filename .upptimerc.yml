@@ -13,8 +13,8 @@ sites:
     port: 25565
     check: "tcp-ping"
     ipv6: false
-  - name: Authentik 
-    url: https://authentik.nvesportseducationleague.org
+  #- name: Authentik 
+  #  url: https://authentik.nvesportseducationleague.org
   - name: Bluemap
     url: https://bluemap.nvesportseducationleague.org
   - name: Docuseal
