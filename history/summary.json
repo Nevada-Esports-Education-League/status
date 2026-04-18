@@ -106,9 +106,9 @@
     "url": "https://git.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.nvesportseducationleague.org.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,7 +117,9 @@
     "timeWeek": 343,
     "timeMonth": 322,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-18": 0
+    }
   },
   {
     "name": "OpenAudioMC",
