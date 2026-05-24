@@ -22,19 +22,22 @@
     "url": "play.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
-    "status": "down",
-    "uptime": "87.86%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.55%",
-    "uptimeYear": "87.86%",
+    "status": "up",
+    "uptime": "87.72%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "34.69%",
+    "uptimeYear": "87.72%",
     "time": 43,
-    "timeDay": 0,
-    "timeWeek": 0,
+    "timeDay": 53,
+    "timeWeek": 53,
     "timeMonth": 47,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2026-05-24": 110,
+      "2025-12-16": 75,
+      "2025-12-24": 152,
+      "2026-01-23": 33,
+      "2026-05-24": 485,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -54,10 +57,7 @@
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
-      "2026-05-04": 764,
-      "2026-01-23": 33,
-      "2025-12-24": 152,
-      "2025-12-16": 75
+      "2026-05-04": 764
     }
   },
   {
@@ -97,11 +97,11 @@
     "timeMonth": 342,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-05-05": 1435,
-      "2026-05-04": 764,
-      "2026-01-01": 37,
+      "2025-12-16": 187,
       "2025-12-23": 29,
-      "2025-12-16": 187
+      "2026-01-01": 37,
+      "2026-05-05": 1435,
+      "2026-05-04": 764
     }
   },
   {
@@ -121,8 +121,8 @@
     "timeMonth": 683,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-05-04": 102,
-      "2026-02-08": 41
+      "2026-02-08": 41,
+      "2026-05-04": 102
     }
   },
   {
@@ -130,19 +130,19 @@
     "url": "https://git.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.nvesportseducationleague.org.ico",
     "slug": "forgejo",
-    "status": "down",
-    "uptime": "71.46%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "71.46%",
-    "time": 302,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "71.31%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "71.31%",
+    "time": 301,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2026-05-24": 110,
+      "2026-05-24": 485,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -206,19 +206,22 @@
     "url": "https://pelican.nvesportseducationleague.org",
     "icon": "https://icons.duckduckgo.com/ip3/pelican.nvesportseducationleague.org.ico",
     "slug": "pelican",
-    "status": "down",
-    "uptime": "87.91%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.55%",
-    "uptimeYear": "87.91%",
-    "time": 443,
-    "timeDay": 152,
-    "timeWeek": 243,
-    "timeMonth": 350,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "87.77%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "34.69%",
+    "uptimeYear": "87.77%",
+    "time": 444,
+    "timeDay": 471,
+    "timeWeek": 311,
+    "timeMonth": 363,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2026-05-24": 110,
+      "2025-12-16": 75,
+      "2025-12-23": 29,
+      "2026-01-01": 38,
+      "2026-05-24": 486,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -238,10 +241,7 @@
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
-      "2026-05-04": 764,
-      "2026-01-01": 38,
-      "2025-12-23": 29,
-      "2025-12-16": 75
+      "2026-05-04": 764
     }
   },
   {
@@ -250,18 +250,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/shelf.nvesportseducationleague.org.ico",
     "slug": "shelf",
     "status": "down",
-    "uptime": "88.97%",
+    "uptime": "88.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.13%",
-    "uptimeYear": "88.97%",
+    "uptimeMonth": "47.26%",
+    "uptimeYear": "88.82%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 773,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2026-05-24": 110,
+      "2025-12-23": 29,
+      "2026-01-09": 133,
+      "2026-01-29": 40,
+      "2026-03-16": 884,
+      "2026-03-30": 940,
+      "2026-05-05": 1410,
+      "2026-05-04": 764,
+      "2026-05-24": 495,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -276,14 +283,7 @@
       "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
-      "2026-05-09": 276,
-      "2026-05-05": 1410,
-      "2026-05-04": 764,
-      "2026-03-30": 940,
-      "2026-03-16": 884,
-      "2026-01-29": 40,
-      "2026-01-09": 133,
-      "2025-12-23": 29
+      "2026-05-09": 276
     }
   },
   {
@@ -303,11 +303,11 @@
     "timeMonth": 299,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2026-05-05": 1410,
-      "2026-05-04": 764,
-      "2025-12-23": 29,
+      "2025-12-16": 272,
       "2025-12-17": 80,
-      "2025-12-16": 272
+      "2025-12-23": 29,
+      "2026-05-05": 1410,
+      "2026-05-04": 764
     }
   }
 ]
