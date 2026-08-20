@@ -25,6 +25,8 @@ sites:
     url: https://netbird.nvesportseducationleague.org
   - name: OpenAudioMC
     url: https://endpoint.nvesportseducationleague.org
+  - name: OpenProject
+    url: https://openproject.nvesportseducationleague.org
   - name: Pelican
     url: https://pelican.nvesportseducationleague.org
   - name: Shelf
