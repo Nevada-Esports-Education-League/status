@@ -13,6 +13,8 @@ sites:
     port: 25565
     check: "tcp-ping"
     ipv6: false
+  - name: ArgoCD
+    url: https://argocd.nvesportseducationleague.org
   - name: Authentik 
     url: https://login.nvesportseducationleague.org
   - name: Bluemap
